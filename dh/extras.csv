@@ -1,1 +1,8 @@
-Old Url,New Url,Status
+Old Url,New Url
+http://www.dh.gov.uk/health/category/news/feed/,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-of-health
+http://www.dh.gov.uk/health/feed/,https://www.gov.uk/government/organisations/department-of-health.atom
+http://www.dh.gov.uk/en,https://www.gov.uk/government/organisations/department-of-health
+http://www.dh.gov.uk/Home/fs/en,https://www.gov.uk/government/organisations/department-of-health
+http://www.dh.gov.uk/en/Rss,https://www.gov.uk/government/organisations/department-of-health.atom
+http://www.dh.gov.uk/health,https://www.gov.uk/government/organisations/department-of-health
+http://www.dh.gov.uk/health/category/publications/reports-publications/feed/,https://www.gov.uk/government/publications?departments%5B%5D=department-of-health
