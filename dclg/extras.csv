@@ -1,1 +1,21 @@
-Old Url,New Url,Status
+old url,new url
+http://www.communities.gov.uk/static/rss/ConsultationsRSS_housing.xml,https://www.gov.uk/government/consultations.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/consultationsrss_housing.xml,https://www.gov.uk/government/consultations.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestNewsRSS_cities.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestNewsRSS_fire.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/latestnewsrss_fire.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestNewsRSS_local.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestNewsRSS_planning.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/latestnewsrss_planning.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestNewsRSS_regeneration.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestnewsstoriesRSS_communities.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestnewsstoriesRSS_corporate.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestnewsstoriesRSS_housing.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestnewsstoriesRSS_local.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestnewsstoriesRSS_planning.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestnewsstoriesRSS_regeneration.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/LatestspeechesandstatementsRSS_planning.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/WhatsNewRSS_corporate.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/whatsnewrss_corporate.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/WhatsNewRSS_housing.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
+http://www.communities.gov.uk/static/rss/WhatsNewRSS_local.xml,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-communities-and-local-government
