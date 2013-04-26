@@ -1,1 +1,4 @@
-Old Url,New Url,Status
+old url,new url
+http://www.dfid.gov.uk/rss/newsrss.asp,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-international-development
+http://www.dfid.gov.uk/rss/press-releases/,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-international-development
+http://www.dfid.gov.uk/rss/speeches/,https://www.gov.uk/government/announcements.atom?departments%5B%5D=department-for-international-development

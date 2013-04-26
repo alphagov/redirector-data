@@ -1,1 +1,4 @@
-Old Url,New Url,Status
+old url,new url
+http://www.fco.gov.uk/content/ar/3678471/news-rss,https://www.gov.uk/government/announcements.atom?departments%5B%5D=foreign-commonwealth-office
+http://www.fco.gov.uk/content/en/rss-outbound/fco-latest-transcripts,https://www.gov.uk/government/announcements.atom?departments%5B%5D=foreign-commonwealth-office
+http://www.fco.gov.uk/content/en/rss-outbound/job-adverts,https://www.gov.uk/government/announcements.atom?departments%5B%5D=foreign-commonwealth-office
