@@ -1,1 +1,4 @@
-Old Url,New Url,Status
+old url,new url
+http://www.nio.gov.uk/government/organisations,https://www.gov.uk/nio
+http://www.nio.gov.uk/index/media-centre.htm,https://www.gov.uk/government/announcements?departments%5B%5D=northern-ireland-office
+http://www.nio.gov.uk/newsdesk.htm,https://www.gov.uk/government/announcements?departments%5B%5D=northern-ireland-office

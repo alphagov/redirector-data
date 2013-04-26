@@ -1,6 +1,4 @@
-Old Url,New Url,Status
-http://www.homeoffice.gov.uk/crime/partnerships/effective-practice1/,,
-http://www.homeoffice.gov.uk/hons,https://www.gov.uk/government/organisations/home-office/about/staff-update,
-http://www.homeoffice.gov.uk/staff,https://www.gov.uk/government/organisations/home-office/about/staff-update,
-http://www.homeoffice.gov.uk/hostaff,https://www.gov.uk/government/organisations/home-office/about/staff-update,
-http://www.homeoffice.gov.uk/dbs, https://www.gov.uk/government/organisations/disclosure-and-barring-service,
+old url,new url
+http://www.homeoffice.gov.uk/media-centre/,https://www.gov.uk/government/announcements?departments%5B%5D=home-office
+http://www.homeoffice.gov.uk/police/police-crime-commissioners/,https://www.gov.uk/government/topics/crime-and-policing
+http://www.homeoffice.gov.uk/science-research/research-statistics/migration/migration-statistics1/,https://www.gov.uk/government/organisations/home-office/about/statistics
