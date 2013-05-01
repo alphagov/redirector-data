@@ -1,1 +1,10 @@
-Old Url,New Url,Status
+old url,new url
+http://www.walesoffice.gov.uk/feed/,https://www.gov.uk/government/organisations/wales-office.atom
+http://www.walesoffice.gov.uk/category/news-releases/feed/,https://www.gov.uk/government/organisations/wales-office.atom
+http://www.walesoffice.gov.uk/feed,https://www.gov.uk/government/organisations/wales-office.atom
+http://www.walesoffice.gov.uk/category/speeches/feed/,https://www.gov.uk/government/organisations/wales-office.atom
+http://www.walesoffice.gov.uk/wp-cron.php?doing_wp_cron,
+http://www.walesoffice.gov.uk/category/publications/feed/,https://www.gov.uk/government/organisations/wales-office.atom
+http://www.walesoffice.gov.uk/category/foi-disclosures/feed/,https://www.gov.uk/government/organisations/wales-office.atom
+http://www.walesoffice.gov.uk/2013/01/24/welsh-secretary-funding-for-new-train-stations-is-a-great-opportunity-for-welsh-communities,
+http://www.walesoffice.gov.uk/about/gwydyr-house/,
