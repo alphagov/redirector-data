@@ -1,1 +1,20 @@
-Old Url,New Url,Status
+old_url,url
+http://statistics.dwp.gov.uk/asd/asd1/ben_hholds/index.php?page=child_ben_hholds,https://www.gov.uk/government/organisations/department-for-work-pensions/series/children-in-out-of-work-benefit-households--2
+http://statistics.dwp.gov.uk/asd/asd1/child_support/index.php?page=csa_arc,https://www.gov.uk/government/organisations/department-for-work-pensions/series/child-support-agency-quarterly-summary-statistics--2
+http://statistics.dwp.gov.uk/asd/asd1/hb_ctb/performance/index.php?page=performance,https://www.gov.uk/government/organisations/department-for-work-pensions/series/housing-benefit-and-council-tax-benefit-statistics-on-speed-of-processing--2
+http://statistics.dwp.gov.uk/asd/asd1/los/index.php?page=los,https://www.gov.uk/government/organisations/department-for-work-pensions/series/life-opportunities-survey
+http://statistics.dwp.gov.uk/asd/asd1/los/index.php?page=los_wor_results,https://www.gov.uk/government/organisations/department-for-work-pensions/series/life-opportunities-survey
+http://statistics.dwp.gov.uk/asd/asd1/tabtools/census_output_area_data/index.php?page=census_output_area_data,https://www.gov.uk/government/organisations/department-for-work-pensions/series/census-output-area-data-on-workless-benefit-claimants--2
+http://statistics.dwp.gov.uk/asd/asd1/tabtools/census_output_area_data/index.php?page=census_output_area_data_2010,https://www.gov.uk/government/organisations/department-for-work-pensions/series/census-output-area-data-on-workless-benefit-claimants--2
+http://statistics.dwp.gov.uk/asd/asd1/tabtools/census_output_area_data/index.php?page=census_output_area_data_2011,https://www.gov.uk/government/organisations/department-for-work-pensions/series/census-output-area-data-on-workless-benefit-claimants--2
+http://statistics.dwp.gov.uk/asd/asd2/index.php?page=fraud_error,https://www.gov.uk/government/organisations/department-for-work-pensions/series/fraud-and-error-in-the-benefit-system
+http://statistics.dwp.gov.uk/asd/asd2/index.php?page=fraud_error_arc,https://www.gov.uk/government/organisations/department-for-work-pensions/series/fraud-and-error-in-the-benefit-system
+http://statistics.dwp.gov.uk/asd/asd4/index.php?page=expenditure,https://www.gov.uk/government/organisations/department-for-work-pensions/series/benefit-expenditure-tables
+http://statistics.dwp.gov.uk/asd/frs/index.php?page=intro,https://www.gov.uk/government/organisations/department-for-work-pensions/series/family-resources-survey--2
+http://statistics.dwp.gov.uk/asd/frs/reports/index.php?page=intro,https://www.gov.uk/government/organisations/department-for-work-pensions/series/family-resources-survey--2
+http://statistics.dwp.gov.uk/asd/index.php?page=abstract,https://www.gov.uk/government/organisations/department-for-work-pensions/series/abstract-of-statistics-for-benefits-national-insurance-contributions-and-indices-of-prices-and-earnings
+http://statistics.dwp.gov.uk/asd/index.php?page=hbctb,https://www.gov.uk/government/organisations/department-for-work-pensions/series/housing-benefit-and-council-tax-benefit-caseload-statistics--2
+http://statistics.dwp.gov.uk/asd/index.php?page=statistical_summaries,https://www.gov.uk/government/organisations/department-for-work-pensions/series/dwp-statistical-summaries
+http://statistics.dwp.gov.uk/asd/index.php?page=stats_summary,https://www.gov.uk/government/organisations/department-for-work-pensions/series/dwp-statistical-summaries
+http://statistics.dwp.gov.uk/asd/workingage/index.php?page=p2w_pl_arc,https://www.gov.uk/government/organisations/department-for-work-pensions/series/provider-led-pathways-to-work-number-of-starts
+http://statistics.dwp.gov.uk/asd/asd1/niall/index.php?page=nino_allocation,
