@@ -139,8 +139,8 @@ http://www.offshore-sea.org.uk/site/scripts/product_info.php?consultationID=&pro
 http://www.offshore-sea.org.uk/site/scripts/product_info.php?consultationID=&productID=98,https://whitehall-admin.production.alphagov.co.uk/government/admin/consultations/196430
 http://www.offshore-sea.org.uk/site/scripts/product_info.php?consultationID=&productID=99,https://whitehall-admin.production.alphagov.co.uk/government/admin/consultations/196449
 http://www.offshore-sea.org.uk/site/scripts/products.php,https://www.gov.uk/government/organisations/department-of-energy-climate-change/series/offshore-energy-strategic-environmental-assessments
-http://www.offshore-sea.org.uk/site/scripts/register.php,https://public.govdelivery.com/accounts/UKDECC/subscriber/new
-http://www.offshore-sea.org.uk/site/scripts/register.php?switchstyle=textonly.css,https://public.govdelivery.com/accounts/UKDECC/subscriber/new
+http://www.offshore-sea.org.uk/site/scripts/register.php,TNA
+http://www.offshore-sea.org.uk/site/scripts/register.php?switchstyle=textonly.css,TNA
 http://www.offshore-sea.org.uk/site/scripts/sea_archive.php,TNA
 http://www.offshore-sea.org.uk/site/scripts/site_map.php,TNA
 http://www.offshore-sea.org.uk/site/scripts/whats_new_index.php,TNA
@@ -500,7 +500,6 @@ http://www.offshore-sea.org.uk/consultations/SEA_7/SEA_7_Appendix_10_-_Offshore_
 http://www.offshore-sea.org.uk/consultations/SEA_7/SEA_7_Appendix_11_-_Assessment.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193720
 http://www.offshore-sea.org.uk/consultations/SEA_7/SEA_7_Appendix_12_-_Natura_2000_Sites.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193720
 http://www.offshore-sea.org.uk/consultations/SEA_7/SEA_7_Post_Consultation_Reprt.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193720
-https://whitehall-admin.production.alphagov.co.uk/government/admin/consultations/196476,https://whitehall-admin.production.alphagov.co.uk/government/admin/consultations/196476
 http://www.offshore-sea.org.uk/consultations/SEA_7/SEA7_Archaeology_Wessex.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/195584
 http://www.offshore-sea.org.uk/consultations/SEA_7/SEA7_Archaeology_Wessex.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/195584
 http://www.offshore-sea.org.uk/consultations/SEA_7/SEA7_Benthos_SRSL.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/195584
@@ -574,7 +573,6 @@ http://www.offshore-sea.org.uk/consultations/SEA_6/SEA6_Geology.pdf,https://whit
 http://www.offshore-sea.org.uk/consultations/SEA_6/SEA6_Oceanography.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/195938
 http://www.offshore-sea.org.uk/consultations/SEA_6/SEA6_Plankton.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/195938
 http://www.offshore-sea.org.uk/consultations/SEA_7/25th_Round_-_Block_Screening_Assessment.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193808
-https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193808,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193808
 http://www.offshore-sea.org.uk/consultations/SEA_7/25th_Round_AA_-_OMF.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193808
 http://www.offshore-sea.org.uk/consultations/SEA_7/25th_Round_AA_-_OMF.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193808
 http://www.offshore-sea.org.uk/consultations/SEA_7/25th_Round_AA_-_WTR-DM_&_WofOrkney.pdf,https://whitehall-admin.production.alphagov.co.uk/government/admin/publications/193808
